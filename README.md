@@ -1,2 +1,2 @@
 # Adidas-Sales-Dashboard
-I have created a dashboard of Adidas Sales.
+I have created a dashboard in Excel showing the Adidas Sales in US.
